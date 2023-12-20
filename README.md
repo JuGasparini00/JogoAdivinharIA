@@ -1,4 +1,4 @@
-# JogoAdivinhar-InteligênciaArtificial
+# JogoAdivinhar-InteligenciaArtificial
 
 --- > Desenvolvi este código como um desafio em sala no 1º semestre do curso de ADS na FATEC de Mogi Mirim, aula de Algorítimos e Lógica de Programação.
 
