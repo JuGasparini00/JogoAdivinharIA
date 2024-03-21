@@ -6,12 +6,12 @@ Desafio: Faça um programa que joga contra um humano. O programa conta quantos p
 
 Tentativas    Avaliação
 
-1 a 5        Excelente!
+1 a 5           Excelente!
 
-6 ou 7       Bom
+6 ou 7           Bom
 
-8 a 12       Normal
+8 a 12            Normal
 
-13 ou 14     Ruim
+13 ou 14           Ruim
 
 15 ou mais   Trágico
