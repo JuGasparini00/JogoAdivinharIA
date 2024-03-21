@@ -1,4 +1,4 @@
-## JogoAdivinhar-InteligenciaArtificial
+## Jogo de Adivinhar - Inteligencia Artificial
 
 - Desenvolvi este código em Linguagem C como um desafio em sala no 1º semestre do curso de ADS na FATEC de Mogi Mirim, aula de Algorítimos e Lógica de Programação.
 
